@@ -1,0 +1,200 @@
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+  .content-telas { 
+    display: block !important;
+  } 
+  .logos {
+    zoom: 50%;
+    flex-direction: column;
+  }
+  .header-btns {
+    flex-direction: column;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  z-index: -1225;
+}
+
+.bg-video {
+  position: fixed;
+  max-width: 100%;
+  z-index: -1;
+}
+
+section {
+  z-index: 100;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+
+  background-color: transparent;
+  padding: 50px;
+  z-index: 12;
+  background: url('../../assets/bg.png')
+}
+
+.header p {
+  font-size: 22px;
+  padding: 50px;
+  color: #fff;
+  text-shadow: 2px 2px 5px black;
+  text-align: center;
+}
+
+.header-btns {
+  display: flex;
+}
+
+.btn {
+  padding: 10px;
+  border-radius: 9px;
+  width: 200px;
+
+  cursor: pointer;
+  transition: filter 0.8s;
+}
+.btn:hover {
+  filter: brightness(0.8);
+}
+
+.bg-red {
+  background-color: #e8505b;
+  color: #fff;
+  border: 2px solid #e8505b;
+}
+
+.bg-outlined {
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.box-funcionamento {
+  display: flex;
+  justify-content: center;
+  background-color: #f0f0f5;
+}
+
+.content-funcionamento {
+  margin-top: 100px;
+  padding-bottom: 100px;
+  width: 1100px;
+  text-align: center;
+}
+
+.content-funcionamento h1 {
+  font-size: 32px;
+}
+
+.content-funcionamento p {
+  margin-top: 50px;
+  line-height: 2em;
+  color: #7a7a7a;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.box-telas {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+  background-color: #fff;
+}
+
+.content-telas {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.content-telas h1 {
+  font-size: 32px;
+}
+.content-telas h3 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.fontRed {
+  color: #e8505b;
+}
+.fontBlue {
+  color: #3331dd;
+}
+
+.box-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+  background-color: #e8505b;
+}
+
+.box-actions h1 {
+  color: #fff;
+  font-size: 38px;
+}
+
+.box-parceiros {
+  justify-content: center;
+  padding: 100px;
+  background-color: #fff;
+}
+
+.box-parceiros h1 {
+  font-size: 32px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.box-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 30px;
+  background-color: #191818;
+}
+
+.box-footer h1 {
+  color: #fff;
+}
+
+.box-mapa {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+  background-color: #f0f0f5;
+}
+
+.content-mapa {
+  margin-top: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.content-mapa h1 {
+  font-size: 32px;
+  padding-bottom: 50px;
+}

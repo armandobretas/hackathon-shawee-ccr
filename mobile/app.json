@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "PARADA - Banho&Descanso",
+    "slug": "parada",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3331DD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "br.com.banhoedescanso.app",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAvFNDvvdzr_tHKDHeeMM3GtUzGtLYVpcE"
+        }
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "sdkVersion": "37.0.0",
+    "description": "Aplicativo desenvolvido durante o HACKATON CCR SHAWEE 2020\n\n",
+    "githubUrl": "https://github.com/armandobretas/mobile-hackaton"
+  }
+}
