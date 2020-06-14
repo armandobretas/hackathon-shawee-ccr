@@ -1,16 +1,43 @@
-<h1 align="center">
-    <b>PARADA - Banho&Descanso</b> 
-</h1>
-
 <h4 align="center">
 
-   Clique [AQUI](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=54cc1c00-28ea-49ff-99d7-5f4476341218&serviceInstanceID=02001311-37a8-4081-8ba6-0e7523ca9f6e) para acessar o ChatBot versão Web
+   Link do [SITE](https://master.d3ac8ddv4xeyr9.amplifyapp.com/)
 </h4>
 
 <h4 align="center">
 
-   Clique [AQUI](https://xd.adobe.com/view/b857ee93-768d-43f8-4d4b-10c348d93ba1-ce66/grid) para o layout no AdobeXD
+   Link do [PITCH](https://youtu.be/FMHTmlsua1U)
 </h4>
+
+<h4 align="center">
+
+   Link do [ChatBot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=54cc1c00-28ea-49ff-99d7-5f4476341218&serviceInstanceID=02001311-37a8-4081-8ba6-0e7523ca9f6e) versão Web
+</h4>
+
+<h4 align="center">
+
+   Link do [Protótipo](https://xd.adobe.com/view/b857ee93-768d-43f8-4d4b-10c348d93ba1-ce66/grid) 
+</h4>
+
+<h4 align="center">
+
+   Link da [API](https://documenter.getpostman.com/view/4812082/SzzhdxzG?version=latest)
+</h4>
+
+<h4 align="center">
+
+   Link do [App](https://expo.io/@armandobretas/parada)
+</h4>
+
+<h4 align="center">
+
+   Link do [Apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40armandobretas/parada-137fd5b31df34117bcb2364c9fd6f521-signed.apk)
+</h4>
+
+<h4 align="center">
+
+   Link da [Apresentação](https://docs.google.com/presentation/d/1MEVdf6WbZ2IwLWifV2LddadEnb52zhTWrCLodNDiHtI/edit#slide=id.g89b57836c6_0_0)
+</h4>
+
 
 <p align="center">
   <img alt="Telas 2" src="https://i.ibb.co/xf8JYB2/Whats-App-Image-2020-06-13-at-14-40-57.jpg" >
@@ -56,7 +83,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <h4>Enquanto o app não é publicado nas lojas de aplicativos, você pode acessar usando os metódos abaixo</h4>
 
-  - Se preferir pode fazer o download do **APK** clicando **[AQUI](https://github.com/armandobretas/mobile-hackaton)** 
+  - Se preferir pode fazer o download do **APK** clicando **[AQUI](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40armandobretas/parada-137fd5b31df34117bcb2364c9fd6f521-signed.apk)** 
   - Ou utilizar o EXPO, links para download abaixo
   
     - **[Android](https://play.google.com/store/apps/details?id=host.exp.exponent)**
